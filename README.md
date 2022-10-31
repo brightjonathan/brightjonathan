@@ -12,7 +12,7 @@ an ongoing developer and writer who believes in seeking possibilities through pr
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bright-jonathan-554970212/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://brightjo.netlify.app/)
 
 ---
  
@@ -24,9 +24,9 @@ an ongoing developer and writer who believes in seeking possibilities through pr
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
 - 📉 Innovative and Creative
-- 😄 <a target="_blank" href="https://facebook.com/iwrite247.com">I also write articles and expressions for publications </a>
-- 📫 <a target="_blank" href="https://bit.ly/atuohaa">go-lite Porfolio</a>
-- 🎈 <a target="_blank" href="https://bit.ly/atutechs">For Project Handling</a>
+- 😄 <a target="_blank" href="https://brightjo.netlify.app/">I also write articles and expressions for publications </a>
+- 📫 <a target="_blank" href="https://brightjo.netlify.app/">go-lite Porfolio</a>
+- 🎈 <a target="_blank" href="https://brightjo.netlify.app/">For Project Handling</a>
 - ⚡ Let's collabo 😃
 <!--  <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" style="border-radius:50%"></p> -->
 
