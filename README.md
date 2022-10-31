@@ -1,8 +1,5 @@
 <h2 align="center">Welcome To My Opensource Github Account 🚧✨❤️<h2>
-<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg" style="border-radius:50%"></p>
 
-  
-  
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
 
