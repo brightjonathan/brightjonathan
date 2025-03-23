@@ -6,7 +6,7 @@
 
 an ongoing developer and writer who believes in seeking possibilities through programming and writing.
 
-🎨 Some previews of my projects here can be seen on https://brightjo.netlify.app/
+🎨 Some previews of my projects here can be seen on 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bright-jonathan-554970212/)
